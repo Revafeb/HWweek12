@@ -1,8 +1,8 @@
-
 import * as React from 'react';
 
 function Board() {
   const squares = Array(9).fill(null);
+  
   function selectSquare(square) {
 
   }
